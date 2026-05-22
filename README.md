@@ -78,13 +78,13 @@ The dataset contains:
 
 ## Screenshots
 
-![Analysis](analysis.png)
+![Train model 2](Train model 2.png)
 
-![Chart1](chart1.png)
+![Train model](Train model.png)
 
-![Chart2](chart2.png)
+![Chart 2](chart 2.png)
 
-![Chart3](chart3.png)
+![Accuracy model](Accuracy model.png)
 
 ---
 
